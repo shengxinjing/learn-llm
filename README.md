@@ -11,6 +11,7 @@ prompt,routing,agent，multi agent,MCP ...
 * [x] [ai-chatbot code](https://github.com/vercel/ai-chatbot)
 * [Gemini Cli code](https://github.com/google-gemini/gemini-cli)
 * [ ] [agentic design patterns](https://book.douban.com/subject/37515819/)
+* [how-to-build-a-coding-agent](github.com/ghuntley/how-to-build-a-coding-agent)
 
 
 ## llm
