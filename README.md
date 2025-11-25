@@ -4,8 +4,8 @@
 ## 应用开发
 
 ## 书&文章
-* [] [ai-chatbot](https://github.com/vercel/ai-chatbot)
-* [] [agentic design patterns](https://book.douban.com/subject/37515819/)
+* [x] [ai-chatbot code](https://github.com/vercel/ai-chatbot)
+* [ ] [agentic design patterns](https://book.douban.com/subject/37515819/)
 
 ### 视频
 
@@ -14,6 +14,7 @@
 ### 书&文章
 
 * [深度学习中的数学](https://book.douban.com/subject/33414479/)
+* [图解大模型：生成式AI原理与实战](https://book.douban.com/subject/37339504/)
 
 ### 视频
 
