@@ -19,6 +19,7 @@ prompt,routing,agent，multi agent,MCP ...
 * [深度学习中的数学](https://book.douban.com/subject/33414479/)
 * [深度学习入门 ](https://book.douban.com/subject/30270959/)
 * [图解大模型：生成式AI原理与实战](https://book.douban.com/subject/37339504/)
+* [一站式LLM底层入门指南](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc)
 
 ### 论文
 
