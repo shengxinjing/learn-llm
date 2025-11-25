@@ -4,19 +4,20 @@
 看了这个视频，[20分钟读懂AI神级论文《Attention Is All You Need》](https://www.bilibili.com/video/BV1dyW9zsEk1/) ，然后打开了这篇论文，然后就有了一堆不会的知识点
 
 
-## 应用开发
+## 应用开发范式
 
-## 书&文章
+prompt,routing,agent，multi agent,MCP ...
+
 * [x] [ai-chatbot code](https://github.com/vercel/ai-chatbot)
 * [ ] [agentic design patterns](https://book.douban.com/subject/37515819/)
 
-### 视频
 
 ## llm
 
 ### 书&文章
 
 * [深度学习中的数学](https://book.douban.com/subject/33414479/)
+* [深度学习入门 ](https://book.douban.com/subject/30270959/)
 * [图解大模型：生成式AI原理与实战](https://book.douban.com/subject/37339504/)
 
 ### 论文
