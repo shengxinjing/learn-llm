@@ -42,6 +42,7 @@ prompt,routing,agent，multi agent,MCP ...
 * [动手学深度学习 d2l](https://zh.d2l.ai/)
 * [Stanford CS224N: NLP with Deep Learning | Spring 2024 ](https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
 * [李宏毅机器学习深度学习系列](https://www.bilibili.com/video/BV1TAtwzTE1S/)
+* [吴恩达大模型系列课程中文版](https://github.com/datawhalechina/llm-cookbook)
 
 
 
